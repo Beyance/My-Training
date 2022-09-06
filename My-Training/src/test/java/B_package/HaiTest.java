@@ -7,6 +7,7 @@ public class HaiTest {
 	public void haitesting()
 	{
 		System.out.println("HAi...Hello...Test..");
+		System.out.println("HAi...Hello...Test..123");
 	}
 
 }
